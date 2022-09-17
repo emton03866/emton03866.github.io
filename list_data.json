@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"tv shows": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Parks and Recreation",
+			"Genre": "Comedy",
+			"Year Aired": "2009",
+			"Rotten Tomatoes Rating": "93%"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Fleabag",
+			"Genre": "Comedy-drama",
+			"Year Aired": "2016",
+			"Rotten Tomatoes Rating": "100%"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Cowboy Bebop",
+			"Genre": "Neo-noir",
+			"Year Aired": "1998",
+			"Rotten Tomates Rating": "100%"
 		}
 	]
 }
